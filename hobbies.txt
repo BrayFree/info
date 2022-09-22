@@ -1,0 +1,4 @@
+hobbies.txt
+I enjoy gaming
+I enjoy watching all sorts of documentarys
+One of my hobbies is collecting pokemon cards
